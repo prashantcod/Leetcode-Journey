@@ -12,3 +12,4 @@ grid = [[3,2],[1,0]]
 sol = Solution()
 last = sol.countNegatives(grid)
 print(last)
+
