@@ -22,7 +22,7 @@
 # If instead we turned both strings into "lee" or "eet", we would get answers of 433 or 417, which are higher.
 
 
-# CODE 
+
 class Solution(object): 
   def minimumDeleteSum(self,s1 , s2): 
         m, n = len(s1), len(s2)
