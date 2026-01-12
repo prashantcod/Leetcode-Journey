@@ -9,5 +9,5 @@ class Solution(object):
 
 matrix =[[1,2,3],[4,5,6],[7,8,9]]      
 sol = Solution() 
-value = sol.transpose(matrix)
-print(value)
+last = sol.transpose(matrix)
+print(last)
