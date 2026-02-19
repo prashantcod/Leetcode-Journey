@@ -9,7 +9,7 @@
 
 # The hour must not contain a leading zero.
 
-# For example, "01:00" is not valid. It should be "1:00".
+
 # The minute must consist of two digits and may contain a leading zero.
 
 # For example, "10:2" is not valid. It should be "10:02".
