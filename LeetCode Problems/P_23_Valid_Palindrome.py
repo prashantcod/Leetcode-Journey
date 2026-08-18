@@ -22,3 +22,18 @@ def Valid_Palindrome(s):
 s = "A man, a plan, a canal: Panama"
 ans = Valid_Palindrome(s)
 print(ans)
+
+
+#MORE OPTIMIZED WAY : 
+# def isPalindrome(s): 
+#     newStr = ""
+
+#     for c in s : 
+#         if c.isalnum(): 
+#             newStr += c.lower()
+#     return newStr == newStr[::-1]
+
+
+# s = "A man, a plan, a canal: Panama"
+# ans = isPalindrome(s)
+# print(ans)
